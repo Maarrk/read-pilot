@@ -1,0 +1,16 @@
+# Executed python files
+
+*.pyc
+
+# PyCharm files
+.idea/
+venv/
+
+# Logs
+logs/
+
+**/mav.parm
+
+**/mav.tlog
+
+**/mav.tlog.raw
